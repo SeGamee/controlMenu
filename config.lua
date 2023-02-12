@@ -14,15 +14,6 @@ Config.subtitle = "Listes des touches du serveur"
 Config.keyColor = "~s~"
 
 Config.Control = {
-
-    {
-        name = "Ouvrir ce menu",
-        key = "F1",
-    },
-
-    {
-        name = "Ouvrir le menu Personnel",
-        key = "F5",
-    },
-
+    { name = "Ouvrir ce menu", key = "F1" },
+    { name = "Ouvrir le menu Personnel", key = "F5" },
 }
